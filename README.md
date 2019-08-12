@@ -1,11 +1,13 @@
 # LOG IN/ SIGN UP Page practice
 
 Login and Signup page layout practice
-###### 版圖設計參考 [連結](https://dribbble.com/shots/2311260-Day-1-Sign-Up-and-Login-Animated-Download-Template)
+###### Design reference [Link](https://dribbble.com/shots/2311260-Day-1-Sign-Up-and-Login-Animated-Download-Template)
 
 ## DEMO
 
- ![](./src/img/demo.gif)
+ [Demo site](https://valuejoe.github.io/UIPractice_LoginSignup/)
+
+ ![Alt text](./src/img/demo.gif)
 
 ## INSTALLATION
 
