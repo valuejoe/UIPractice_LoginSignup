@@ -1,0 +1,72 @@
+body{
+    background-image: url(../images/blue_wall-69990325.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 2000px;
+    font-family: 'Blinker', sans-serif;
+}
+
+h2{
+    color:rgba(255, 255, 255, 0.644);
+}
+
+input{
+    margin-top:20px;
+    padding: 2px 10px 2px 10px;
+    width: 300px;
+    height: 30px;
+    border:0;
+    border-block-end: 2px rgba(87, 68, 68, 0.37) solid ;
+    background-color: rgba(0, 0, 0, 0);
+    outline:none;
+}
+button{
+    background-color: rgba(255, 255, 255, 0);
+    border: 1.5px solid hsla(0, 0%, 100%, 0.644);
+    width: 100px;
+    height: 30px;
+    border-radius: 6px;
+    outline:none;
+    color:rgba(255, 255, 255, 0.644);
+}
+button:hover{
+    background-color: rgb(191, 200, 207);
+}
+.main{
+    z-index: -1;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.651);
+    width:800px;
+    height: 320px;
+    top:50%;
+    left:50%;
+    margin: -150px 0 0 -400px;
+}
+
+.loginright {
+    margin-left: 400px;
+}
+
+.loginleft{
+    position: absolute;
+    margin: 100px 0 0 60px;
+}
+
+.signupleft{
+    position: absolute;
+    width:400px;
+    margin:0 0 0 95px;
+}
+
+.signupright{
+    margin: 100px 0 0 530px;
+}
+
+.title{
+    color:rgb(161, 77, 77);
+}
+
+.submitButton{
+    border: 0;
+    background-color:rgb(161, 77, 77) ;
+    margin:30px 0 0 220px;
+}
