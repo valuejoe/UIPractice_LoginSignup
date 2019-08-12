@@ -5,12 +5,12 @@ Login and Signup page layout practice
 
 ## DEMO
 
- ![Alt text](./img/demo.gif)
+ ![](./src/img/demo.gif)
 
 ## INSTALLATION
 
 ```console
-$ git clone https://github.com/valuejoe/siginPagePractice 
+$ git clone https://github.com/valuejoe/UIPractice_LoginSignup.git
 $ cd todolist_react
 $ npm install 
 $ npm start   ## Open the browser at: http://localhost:8080
